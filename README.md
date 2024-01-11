@@ -1,2 +1,2 @@
 # visage
-PHP email spoofer using MIME.
+PHP email spoofing with MIME.
